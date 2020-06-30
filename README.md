@@ -22,7 +22,7 @@ $ pip3 install flask && python3 server.py
 ```
 ## What to build
 
-Build field, bench and players, so that your game looks like this: ![Sample image](https://www.awesomescreenshot.com/image/4975113/d2b6a3dcb69a925901262d13cf9b06ae)
+Build field, bench and players, so that your game looks like this: ![middle earth football chess](https://tinyurl.com/yb8f7kel)
 
 ### Hints
 - Build two sections, one for the field and one for the bench
