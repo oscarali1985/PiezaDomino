@@ -1,10 +1,6 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML + CSS middle earth football chess!
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
-
-The most basic boilerplate for any 4Geeks Academy Student using the [gitpod.io](gitpod.io) coding editor.
-
-[![How to open html/css preview of my project in gitpod](https://ucarecdn.com/573d0bef-9c8c-48dd-a6ef-401972dff96d/)](https://youtu.be/dfbDCMu_p-0)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/ernestomedinam/middle-earth-football-chess.git)
 
 ## What to do next?
 
@@ -24,3 +20,12 @@ $ pip3 install flask && python3 server.py
   ...
 </head>
 ```
+## What to build
+
+Build field, bench and players, so that your game looks like this: ![Sample image](https://www.awesomescreenshot.com/image/4975113/d2b6a3dcb69a925901262d13cf9b06ae)
+
+### Hints
+- Build two sections, one for the field and one for the bench
+- All players and lines could be divs
+- Have the bench be a flexbox and the field be a 7x7 grid
+- Use images on img folder as background images for the players according to their specie
